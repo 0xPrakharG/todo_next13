@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  position: absolute;
+  background: #0000004d;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
